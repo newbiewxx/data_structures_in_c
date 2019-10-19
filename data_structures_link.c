@@ -152,5 +152,3 @@ void Destory(SingleList * L)
 		L -> first = p; 
 	}
 }
-
-
